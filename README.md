@@ -1,6 +1,7 @@
 # 🧠 CyberSage: Agentic RAG for Cybersecurity Intelligence
 
 **CyberSage** is an advanced Retrieval-Augmented Generation (RAG) pipeline enhanced with agentic workflows for cybersecurity applications. It builds upon the [CyberScienceLab RAG_LLM_CVE](https://github.com/CyberScienceLab/RAG_LLM_CVE) repository, extending its capabilities with intelligent agents, enriched threat analysis, and a modular architecture that supports multiple cybersecurity tasks like CVE summarization, log analysis, and threat hunting.
+![image](https://github.com/user-attachments/assets/cc78016b-8447-4432-9ef2-1141b9247741)
 
 ---
 
