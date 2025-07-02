@@ -101,6 +101,7 @@ Model loads automatically with:
 | 🖥️ Streamlit Interface      | Simple interactive UI |
 | 🪛 Attribute Fixes          | Patched critical errors |
 | 🗃️ Modular Data Handling    | Supports multiple PDF threat reports |
+![image](https://github.com/user-attachments/assets/7e9a0d77-e788-40ad-bdb4-7af2fc1ec675)
 
 ---
 
@@ -109,6 +110,7 @@ Model loads automatically with:
 ```bash
 streamlit run rag_App.py
 ```
+![image](https://github.com/user-attachments/assets/63d8dc74-0092-4e0d-9754-ace4e0a61120)
 
 Try out:
 - “Explain CVE-2023-23397”
