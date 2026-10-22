@@ -145,12 +145,6 @@ Answer (based on the context only):
 
 ---
 
-## 📜 License
-
-This project inherits the license of the original [CyberScienceLab/RAG_LLM_CVE](https://github.com/CyberScienceLab/RAG_LLM_CVE). Check `LICENSE` file.
-
----
-
 ## 👨‍💻 Author
 
 Developed & extended by **Rudraksh Gupta**  
